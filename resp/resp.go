@@ -2,7 +2,6 @@ package resp
 
 import (
 	"errors"
-	"fmt"
 	"regexp"
 	"strconv"
 	"strings"
